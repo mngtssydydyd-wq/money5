@@ -14,7 +14,7 @@ function App() {
       badge: 'تحليل الصاغة والتحوط الدولي',
       description: 'دراسة استباقية لحماية السيولة من التضخم بناءً على قرارات الفيدرالي والبنك المركزي المصري',
       example: 'ما هو التوقيت المثالي لتحويل السيولة إلى ذهب قبل دورة الفائدة القادمة؟',
-      url: 'https://cbrtsseoipuhwwlfycrb.supabase.co/functions/v1/proxy-chatbot?id=698914743159d0c298c819d2',
+      url: 'https://app.edcafe.ai/chatbots/698914743159d0c298c819d2',
       icon: 'gold' as const
     },
     {
@@ -22,7 +22,7 @@ function App() {
       badge: 'دقة تقييم 98%',
       description: 'تحليل الفرص الاستثمارية في الحي المالي، العاصمة الإدارية، وزايد. حساب العائد الإيجاري الصافي (ROI)',
       example: 'أيهما أفضل: المقرات الإدارية في العاصمة أم العقارات التجارية في التجمع؟',
-      url: 'https://cbrtsseoipuhwwlfycrb.supabase.co/functions/v1/proxy-chatbot?id=698915ce3159d0c298c81e69',
+      url: 'https://app.edcafe.ai/chatbots/698915ce3159d0c298c81e69',
       icon: 'realestate' as const
     },
     {
@@ -30,7 +30,7 @@ function App() {
       badge: 'كفاءة تشغيل +40%',
       description: 'إعادة هندسة العمليات الإدارية لشركات المقاولات والمصانع لتقليل النفقات باستخدام ذكاء الأعمال',
       example: 'كيف يمكنني أتمتة نظام اللوجستيات لتقليل الهالك السنوي بنسبة 25%؟',
-      url: 'https://cbrtsseoipuhwwlfycrb.supabase.co/functions/v1/proxy-chatbot?id=698917243159d0c298c821d6',
+      url: 'https://app.edcafe.ai/chatbots/698917243159d0c298c821d6',
       icon: 'ai' as const
     },
     {
@@ -38,7 +38,7 @@ function App() {
       badge: 'تحليل فني وأساسي',
       description: 'تتبع حركات رؤوس الأموال وصناديق الاستثمار في EGX30 والأسواق العالمية لحظة بلحظة',
       example: 'تحليل أداء قطاع العقارات في البورصة المصرية بناءً على بيانات الربع الأخير',
-      url: 'https://cbrtsseoipuhwwlfycrb.supabase.co/functions/v1/proxy-chatbot?id=6989180c3159d0c298c8242e',
+      url: 'https://app.edcafe.ai/chatbots/6989180c3159d0c298c8242e',
       icon: 'stocks' as const
     }
   ];
